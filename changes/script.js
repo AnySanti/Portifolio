@@ -14,10 +14,10 @@ function toggleMode() {
     
     if(html.classList.contains('light')) {
         //light mode substituição
-        img.setAttribute('src', './image/avatar-light.png')
+        img.setAttribute('src', './image/cropped_image.png')
     } else {
         //sem light mode
-        img.setAttribute('src', './image/cropped_image.png')
+        img.setAttribute('src', './image/photo2.png')
     }
 }
 
