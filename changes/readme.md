@@ -18,7 +18,7 @@ Atividade do programa exclusivo e gratuito, promovido pela Rocketseat para ensin
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  Projeto DevLinks
 </p>
 
 ## 🚀 Tecnologias
